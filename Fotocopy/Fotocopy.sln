@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fotocopy", "Fotocopy.vbproj", "{0F466EB1-B298-418E-81E5-1F54697A6598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F466EB1-B298-418E-81E5-1F54697A6598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F466EB1-B298-418E-81E5-1F54697A6598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F466EB1-B298-418E-81E5-1F54697A6598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F466EB1-B298-418E-81E5-1F54697A6598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F5DC41-9703-4A2F-B50A-8DD0D5C2BA1B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\bin\Debug\Fotocopy.exe.config
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\bin\Debug\Fotocopy.exe
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\bin\Debug\Fotocopy.pdb
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\bin\Debug\Fotocopy.xml
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.vbprojAssemblyReference.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.Form1.resources
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.Resources.resources
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.vbproj.GenerateResource.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.vbproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.exe
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.xml
+D:\Mata Kuliah\Semester 2\Pemrograman Visual\Topic 4  Condition\Fotocopy\obj\Debug\Fotocopy.pdb
